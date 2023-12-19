@@ -1,0 +1,1 @@
+Looks like the wizard is gone. I suppose I should seek him out. #Player

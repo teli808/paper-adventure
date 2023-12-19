@@ -1,0 +1,388 @@
+fileFormatVersion: 2
+guid: 5e6835ae77fa13842b5e13eda234cc8b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: PG_Skins_ase_Frame_0
+    originalName: 
+    pivot: {x: 0.5033112, y: -0.11392404}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 302
+      height: 79
+    spriteID: fc6cfb5b2d7c0a442a9d3063a3f80ec4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: PG_Skins_ase_Frame_1
+    originalName: 
+    pivot: {x: 0.5033112, y: -0.11392404}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 91
+      width: 302
+      height: 79
+    spriteID: 32d484ee70a970044a39943c5349c09b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 91}
+  - name: PG_Skins_ase_Frame_2
+    originalName: 
+    pivot: {x: 0.5033112, y: -0.11392404}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 178
+      width: 302
+      height: 79
+    spriteID: 23a098b9cbfb6b245a344253208a0922
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -4, y: 169}
+  - name: PG_Skins_ase_Frame_3
+    originalName: 
+    pivot: {x: 0.5033112, y: -0.11392404}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 265
+      width: 302
+      height: 79
+    spriteID: 19450cd78ef5aeb41b2addd8d4a07055
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 265}
+  - name: PG_Skins_ase_Frame_4
+    originalName: 
+    pivot: {x: 0.5033112, y: -0.11392404}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 352
+      width: 302
+      height: 79
+    spriteID: e55d1f4397b7e194282626a5011ccdd4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 352}
+  - name: PG_Skins_ase_Frame_5
+    originalName: 
+    pivot: {x: 0.5033112, y: -0.11392404}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 439
+      width: 302
+      height: 79
+    spriteID: dc531b2c4a29a50419c67a9dd07bc23a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 439}
+  - name: PG_Skins_ase_Frame_6
+    originalName: 
+    pivot: {x: 0.5033112, y: -0.11392404}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 526
+      width: 302
+      height: 79
+    spriteID: 0bf905ac253203c429c8b41c759a0660
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 526}
+  - name: PG_Skins_ase_Frame_7
+    originalName: 
+    pivot: {x: 0.5033112, y: -0.11392404}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 613
+      width: 302
+      height: 79
+    spriteID: 81787af3441d06e4da9e9ddb4621b47a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 613}
+  - name: PG_Skins_ase_Frame_8
+    originalName: 
+    pivot: {x: 0.5033112, y: -0.11392404}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 700
+      width: 302
+      height: 79
+    spriteID: ee5b6d1882065cd4a8b33d6b50bd9bf0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 700}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1026258454
+    name: PG_Skins_ase
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: PG_Skins_ase_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 8
+        y: 9
+        width: 302
+        height: 79
+      spriteId: fc6cfb5b2d7c0a442a9d3063a3f80ec4
+    - name: PG_Skins_ase_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 8
+        y: 9
+        width: 302
+        height: 79
+      spriteId: 32d484ee70a970044a39943c5349c09b
+    - name: PG_Skins_ase_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 0
+        y: 0
+        width: 320
+        height: 96
+      spriteId: 23a098b9cbfb6b245a344253208a0922
+    - name: PG_Skins_ase_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 8
+        y: 9
+        width: 302
+        height: 79
+      spriteId: 19450cd78ef5aeb41b2addd8d4a07055
+    - name: PG_Skins_ase_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 8
+        y: 9
+        width: 302
+        height: 79
+      spriteId: e55d1f4397b7e194282626a5011ccdd4
+    - name: PG_Skins_ase_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 8
+        y: 9
+        width: 302
+        height: 79
+      spriteId: dc531b2c4a29a50419c67a9dd07bc23a
+    - name: PG_Skins_ase_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 8
+        y: 9
+        width: 302
+        height: 79
+      spriteId: 0bf905ac253203c429c8b41c759a0660
+    - name: PG_Skins_ase_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 8
+        y: 9
+        width: 302
+        height: 79
+      spriteId: 81787af3441d06e4da9e9ddb4621b47a
+    - name: PG_Skins_ase_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 8
+        y: 9
+        width: 302
+        height: 79
+      spriteId: ee5b6d1882065cd4a8b33d6b50bd9bf0
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 320, y: 96}
