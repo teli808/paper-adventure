@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb893ee76ffeea144b3ccf82a41e93a3, type: 3}
+  m_Name: WatchStoryItem
+  m_EditorClassIdentifier: 
+  <ItemName>k__BackingField: Watch
+  <ItemIcon>k__BackingField: {fileID: -985994155, guid: 737964b4e71abb940a76acf416e8da82, type: 3}
+  <ItemDescription>k__BackingField: A watch found in a small brush of grass. I should
+    take this back to the wizard...
+  <storyItemTestField>k__BackingField: 
